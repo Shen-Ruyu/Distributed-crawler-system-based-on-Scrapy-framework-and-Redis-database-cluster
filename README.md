@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3ec53878-33ec-4d48-95bb-4e301102315f)# Distributed-crawler-system-based-on-Scrapy-framework-and-Redis-database-cluster
+# Distributed-crawler-system-based-on-Scrapy-framework-and-Redis-database-cluster
 
 We design a distributed crawler system based on Scrapy framework and Redis database cluster. 
 Scrapy provides efficient data capture and parsing functions, while Redis cluster implements task distribution and deduplication, reducing the space occupancy of string data.
